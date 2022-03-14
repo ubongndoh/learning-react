@@ -1,0 +1,15 @@
+.card {
+	width: 150px;
+	height: 200px;
+	background-color: antiquewhite;
+	margin: 20px;
+}
+.card-section {
+	display: flex;
+	flex-direction: column;
+	height: 50%;
+	width: 80%;
+	margin: auto;
+	justify-items: center;
+	align-items: center;
+}
